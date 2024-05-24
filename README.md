@@ -45,6 +45,22 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
 	<summary>State 관리를 위해 Recoil 적용</summary>
 
 ``` javascript
+
+import { atom } from "recoil";
+import {accountData} from '../data/AccountData';
+import {myData} from '../data/MyData';
+import {pointData} from '../data/PointData';
+import {consumeData} from '../data/ConsumeData';
+import {productData, productTypeData} from '../data/ProductData';
+
+export const selectedAccountIdState = atom({
+	key: "selectedAccountId",
+  	default: 0
+});
+
+```
+
+``` javascript
 import { useRecoilState, useSetRecoilState, useResetRecoilState, useRecoilValue } from 'recoil';
 import { myState, productState, selectedItemIdState, selectedItemCountState } from '../recoil/state';
 
