@@ -109,7 +109,7 @@ const ButtonFadeIn = () => (
 
 <div align="center">
 	<img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/9ff6e7eb-7f67-428a-97d7-769b3b08451e" width="30%" height="30%"/>
-	<div>Moti를 사용하여 필요한 애니메이션을 간단하게 적용해볼 수 있었습니다.</div>
+	<div>Moti를 사용하여 필요한 애니메이션을 쉽고 간단하게 적용해볼 수 있었습니다.</div>
 </div>
 
 </details>
