@@ -24,7 +24,7 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
 <details>
 	<summary>Figma Component를 사용하여 프로토타이핑 진행</summary>
     
-   <div align="center" width="30%" height="30%">
+   <div align="center" width="100%" height="100%">
     <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/9c2ef52f-2725-4bb5-ba3e-fe00c97cba3d"/>
     <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/5a53342c-583d-4af3-a7a3-117a0010bd61"/>
   </div>
