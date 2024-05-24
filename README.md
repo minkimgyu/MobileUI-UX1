@@ -41,15 +41,60 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
    
 </details>
 
+<details>
+	<summary>State 관리를 위해 Recoil 적용</summary>
+
+``` javascript
+import { useRecoilState, useSetRecoilState, useResetRecoilState, useRecoilValue } from 'recoil';
+import { myState, productState, selectedItemIdState, selectedItemCountState } from '../recoil/state';
+
+function CheckInfoBeforeBuyScreen(props) {
+    const [expanded, setExpanded] = React.useState(true);
+
+    const storedMyState = useRecoilValue(myState)
+
+    const storedProductState = useRecoilValue(productState)
+    const storedSelectedItemIdState = useRecoilValue(selectedItemIdState)
+
+    const nowSelectedItem = storedProductState[storedSelectedItemIdState];
+    const storedSelectedItemCountState = useRecoilValue(selectedItemCountState)
+}
+```
 
 
-State 관리를 위해 Recoil 적용
+전역 상태 관리 라이브러리인 Recoil을 적용하여 State 관리를 쉽게 할 수 있도록 개발했습니다.
+   
+</details>
 
-코드 넣기
 
-애니메이션 적용을 위해 Moti 사용
 
-움짤 + 코드 넣기
+<details>
+	<summary>애니메이션 적용을 위해 Moti 사용</summary>
+
+``` javascript
+
+import { MotiView } from 'moti'
+
+const ButtonFadeIn = () => (
+        <MotiView
+          from={{ opacity: 0, scale: 0, rotate: "-80deg"}}
+          animate={{ opacity: 1, scale: 1, rotate: "0deg" }}
+          transition={{ type: 'timing', duration: 1000 }}
+          >
+           <Icon
+                source="check-circle"
+                color="#3182F7"
+                size={84}
+            />
+        </MotiView>
+      )
+}
+```
+
+Moti를 사용하여 필요한 애니메이션을 간단하게 적용해볼 수 있었습니다.
+   
+</details>
+
 
 ## 회고
 
