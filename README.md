@@ -35,11 +35,12 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
 	<summary>React Navigation, React Native Paper 적용</summary>
     	<div align="center">
 	    <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/71954e28-7301-4935-9d85-042c85792c76" width="30%" height="30%"/>
+	    <div>React Navigation, React Native Paper을 사용하여 BottomNavigation과 Button 등 다양한 Component를 구현해보았습니다.</div>
   	</div>
    
 </details>
 
-React Navigation, React Native Paper을 사용하여 BottomNavigation과 Button 등 다양한 Component를 구현해보았습니다.
+
 
 State 관리를 위해 Recoil 적용
 
