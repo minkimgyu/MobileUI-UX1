@@ -78,7 +78,7 @@ function CheckInfoBeforeBuyScreen(props) {
 ```
 
 
-전역 상태 관리 라이브러리인 Recoil을 적용하여 State 관리를 쉽게 할 수 있도록 개발했습니다.
+<div align="center">전역 상태 관리 라이브러리인 Recoil을 적용하여 State 관리를 쉽게 할 수 있도록 개발했습니다.</div>
    
 </details>
 
