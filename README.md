@@ -32,11 +32,17 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
 </details>
 
 
+<details>
+	<summary>React Navigation, React Native Paper 적용</summary>
+    
+   <div align="center" width="30%" height="30%">
+    <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/9c2ef52f-2725-4bb5-ba3e-fe00c97cba3d"/>
+    <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/5a53342c-583d-4af3-a7a3-117a0010bd61"/>
+  </div>
+   
+</details>
 
-컴포넌트 이미지 + 움짤 하나 추가
 
-   	
-React Navigation, React Native Paper 사용
 
 움짤 추가
 
