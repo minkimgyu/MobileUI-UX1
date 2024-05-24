@@ -22,9 +22,9 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
 
 Figma Component를 사용하여 프로토타이핑 진행
 
-<div align="center">
-  <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/229af9f3-b098-4515-af62-0c3778357376"/>
-  <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/a06b1d73-237d-436c-8ce2-21768d80f155"/>
+<div align="center" width="70%" height="70%">
+  <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/9c2ef52f-2725-4bb5-ba3e-fe00c97cba3d"/>
+  <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/5a53342c-583d-4af3-a7a3-117a0010bd61"/>
 </div>
 
 컴포넌트 이미지 + 움짤 하나 추가
