@@ -20,37 +20,27 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
 
 ## 기능 설명
 
-<details>
-	<summary>Figma Component를 사용하여 프로토타이핑 진행</summary>
-    
-   
-   
-</details>
+Figma Component를 사용하여 프로토타이핑 진행
 
+<div align="center">
+  <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/229af9f3-b098-4515-af62-0c3778357376"/>
+  <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/a06b1d73-237d-436c-8ce2-21768d80f155"/>
+</div>
 
-<details>
-	<summary>React Navigation, React Native Paper 사용</summary>
-    
-   내용을 적어주세요.
-   
-</details>
+컴포넌트 이미지 + 움짤 하나 추가
 
+   	
+React Navigation, React Native Paper 사용
 
+움짤 추가
 
-<details>
-	<summary>State 관리를 위해 Recoil 적용</summary>
-    
-   내용을 적어주세요.
-   
-</details>
+State 관리를 위해 Recoil 적용
 
+코드 넣기
 
-<details>
-	<summary>애니메이션 적용을 위해 Moti 사용</summary>
-    
-   내용을 적어주세요.
-   
-</details>
+애니메이션 적용을 위해 Moti 사용
+
+움짤 + 코드 넣기
 
 ## 회고
 
