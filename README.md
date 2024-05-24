@@ -27,7 +27,7 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
    <div align="center">
     <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/9c2ef52f-2725-4bb5-ba3e-fe00c97cba3d" width="30%" height="30%"/>
     <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/5a53342c-583d-4af3-a7a3-117a0010bd61" width="30%" height="30%"/>
-    <div>개발에 앞서 Figma를 통해서 프로토타이핑 해보면서 필요한 컴포넌트와 기능들을 정리했습니다.</div>
+    <div>개발에 앞서 Figma를 통해서 프로토타이핑 해보면서 필요한 기능들을 정리해봤습니다.</div>
   </div>
    
 </details>
