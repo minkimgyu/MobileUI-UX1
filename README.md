@@ -21,7 +21,7 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
 ## 기능 설명
 
 <details>
-	<summary>프로토타이핑 과정에서 Figma Component 사용</summary>
+	<summary>Figma Component를 사용하여 프로토타이핑 진행</summary>
     
    
    
