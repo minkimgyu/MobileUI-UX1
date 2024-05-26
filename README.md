@@ -25,8 +25,9 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
    <div align="center">
     <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/9c2ef52f-2725-4bb5-ba3e-fe00c97cba3d" width="30%" height="30%"/>
     <img src="https://github.com/minkimgyu/minkimgyu/assets/48249824/5a53342c-583d-4af3-a7a3-117a0010bd61" width="30%" height="30%"/>
-    <div>개발에 앞서 Figma를 통해서 프로토타이핑 해보면서 필요한 기능들을 정리해봤습니다.</div>
   </div>
+  
+<div align="center"> 개발에 앞서 Figma를 통해서 프로토타이핑 해보면서 필요한 기능들을 정리해봤습니다. </div>
    
 </br>
 
@@ -35,8 +36,10 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
     	<div align="center">
 	    <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/71954e28-7301-4935-9d85-042c85792c76" width="30%" height="30%"/>
 	    <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/0ed9a21b-fc7f-4b7d-9f32-5060f08ec049" width="30%" height="30%"/>
-	    <div>React Navigation, React Native Paper을 사용하여 필요한 기능들을 Component를 활용하여 구현해보았습니다.</div>
+
   	</div>
+
+<div align="center"> React Navigation, React Native Paper을 사용하여 필요한 기능들을 Component를 활용하여 구현해보았습니다.</div>
    
 </br>
 
