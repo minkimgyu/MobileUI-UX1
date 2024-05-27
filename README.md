@@ -33,11 +33,10 @@ Figma를 사용하여 개발에 필요한 요소들 프로토타이핑 후 React
 
 
 * ### React Navigation, React Native Paper 적용
-    	<div align="center">
-	    <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/71954e28-7301-4935-9d85-042c85792c76" width="30%" height="30%"/>
-	    <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/0ed9a21b-fc7f-4b7d-9f32-5060f08ec049" width="30%" height="30%"/>
-
-  	</div>
+<div align="center">
+    <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/71954e28-7301-4935-9d85-042c85792c76" width="30%" height="30%"/>
+    <img src="https://github.com/minkimgyu/MobileUI-UX1/assets/48249824/0ed9a21b-fc7f-4b7d-9f32-5060f08ec049" width="30%" height="30%"/>
+</div>
 
 <div align="center"> React Navigation, React Native Paper을 사용하여 필요한 기능들을 Component를 활용하여 구현해보았습니다.</div>
    
